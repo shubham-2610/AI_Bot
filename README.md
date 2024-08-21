@@ -1,6 +1,5 @@
-Here's a `README.md` file for the code you provided:
 
-```markdown
+
 # Personal AI Bot with PDF Retrieval
 
 This project is a Python-based AI assistant that includes two main functionalities:
